@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$a00047.html" title="SimpleCommand handles the business logic of the application in modular chunks." alt="" coords="1883,244,2189,329"/>
+<area shape="rect" id="node25" href="$a00019.html" title="The super class for all of the concrete Mediator instances within the application." alt="" coords="4281,157,4532,416"/>
+<area shape="rect" id="node35" href="$a00035.html" title="The super class for all of the concrete Proxy instances within the application." alt="" coords="5317,175,5533,399"/>
+<area shape="rect" id="node5" href="$a00003.html" title="Constructs a newick tree out of a score matrix, then notifies to show the results, as well as opening forester.jar to display the tree more graphically." alt="" coords="5,516,363,601"/>
+<area shape="rect" id="node7" href="$a00005.html" title="Takes a list if SequenceVO objects, and constructs a matrix of their scored pairwise comparisons..." alt="" coords="387,499,760,619"/>
+<area shape="rect" id="node9" href="$a00026.html" title="Takes the results from the body of a notification, creates a text file of those results, and opens this file with forester.jar." alt="" coords="784,516,1101,601"/>
+<area shape="rect" id="node11" href="$a00028.html" title="Compares two strings getting the settings from the Model and returns the strings with gaps..." alt="" coords="1125,516,1491,601"/>
+<area shape="rect" id="node13" href="$a00033.html" title="Reads in a txt file conformant to the fasta standard, and constructs an array of SequenceVO objects f..." alt="" coords="1515,516,1845,601"/>
+<area shape="rect" id="node15" href="$a00034.html" title="Gets the matrix file location from the Model and pases it to the pyd file to load in and parse..." alt="" coords="1869,516,2203,601"/>
+<area shape="rect" id="node17" href="$a00038.html" title="Asks the user which file to download, and provides them with a browsing interface." alt="" coords="2227,516,2592,601"/>
+<area shape="rect" id="node19" href="$a00041.html" title="Saves the views states into the proxy." alt="" coords="2616,516,2968,601"/>
+<area shape="rect" id="node21" href="$a00048.html" title="Starts the sequence of events required to retrieve the values from the gui, to access the files..." alt="" coords="2992,516,3341,601"/>
+<area shape="rect" id="node23" href="$a00049.html" title="Handles the initialization of the Model and View by maping the Proxy and Mediator instances respectiv..." alt="" coords="3365,516,3672,601"/>
+<area shape="rect" id="node27" href="$a00007.html" title="Mediates DataSelectorInterface." alt="" coords="3696,473,4029,645"/>
+<area shape="rect" id="node29" href="$a00017.html" title="Mediates GraphicalUserInterface and MainTabInterface." alt="" coords="4053,481,4387,636"/>
+<area shape="rect" id="node31" href="$a00031.html" title="PairwiseInterface." alt="" coords="4411,464,4776,653"/>
+<area shape="rect" id="node33" href="$a00036.html" title="Mediates ResultsInterface." alt="" coords="4800,481,5096,636"/>
+<area shape="rect" id="node37" href="$a00039.html" title="Stores the values provided by the user during the opperation of the application." alt="" coords="5120,499,5419,619"/>
+<area shape="rect" id="node39" href="$a00040.html" title="TODO: Implement state saving." alt="" coords="5443,516,5723,601"/>
+<area shape="rect" id="node41" href="$a00050.html" title="Provides access for default values within the application." alt="" coords="5747,481,6032,636"/>
+</map>

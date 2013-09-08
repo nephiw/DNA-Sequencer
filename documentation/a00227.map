@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$a00005.html" title="Takes a list if SequenceVO objects, and constructs a matrix of their scored pairwise comparisons..." alt="" coords="5,291,360,445"/>
+<area shape="rect" id="node7" href="$a00003.html" title="Constructs a newick tree out of a score matrix, then notifies to show the results, as well as opening forester.jar to display the tree more graphically." alt="" coords="384,325,744,411"/>
+<area shape="rect" id="node9" href="$a00028.html" title="Takes the results from the body of a notification, creates a text file of those results, and opens this file with forester.jar This creates a new process for the opening of forester.jar so if there is an error that occurs in forester it will not crash this application." alt="" coords="768,325,1088,411"/>
+<area shape="rect" id="node11" href="$a00030.html" title="Compares two strings getting the settings from the Model and returns the strings with gaps..." alt="" coords="1112,325,1477,411"/>
+<area shape="rect" id="node13" href="$a00035.html" title="Reads in a txt file conformant to the fasta standard, and constructs an array of SequenceVO objects f..." alt="" coords="1501,325,1832,411"/>
+<area shape="rect" id="node15" href="$a00036.html" title="Gets the matrix file location from the Model and passes it to the pyd file to load in and parse..." alt="" coords="1856,325,2189,411"/>
+<area shape="rect" id="node17" href="$a00042.html" title="Saves the views states into the proxy." alt="" coords="2213,325,2565,411"/>
+<area shape="rect" id="node19" href="$a00050.html" title="Starts the sequence of events required to retrieve the values from the gui, to access the files..." alt="" coords="2589,325,2939,411"/>
+<area shape="rect" id="node21" href="$a00051.html" title="Handles the initialization of the Model and View by mapping the Proxy and Mediator instances respecti..." alt="" coords="2963,325,3269,411"/>
+<area shape="rect" id="node2" href="$a00026.html" title="The super class for objects that need to broadcast Notifications for the application." alt="" coords="1553,6,1780,109"/>
+</map>
