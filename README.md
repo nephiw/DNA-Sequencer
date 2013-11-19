@@ -47,4 +47,4 @@ If you would like to experiment with the program, there are example fasta files 
 The substitution matrix files can be found in the matrices folder, feel free to view and copy these files, but removing or editing them will result in the program not operating properly.
 
 # Thanks
-Thanks for using our program. Please post issues and feature requests. Feel free to download and inspect the source code.
+Thanks for using our program. Please post issues and feature requests. Feel free to download and inspect the source code, at the root of the program is a documentation folder which contains the api for both the python and c code. This should help you get started.
