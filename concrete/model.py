@@ -15,9 +15,9 @@ class SaveStateProxy( patterns.proxy.Proxy ) :
         # here we need to define the steps of pickling the state.
 
 ##
-# Stores the values provided by the user during the opperation of the application.
+# Stores the values provided by the user during the operation of the application.
 #
-# The running state of the application is stored a a map of value objects.  Value objects are retrieveable by name.
+# The running state of the application is stored a a map of value objects.  Value objects are retrievable by name.
 #
 # @see patterns.proxy.Proxy
 # @see comm.valueObjects.SequenceVO
@@ -70,4 +70,3 @@ class StaticStateProxy( patterns.proxy.Proxy ) :
                      BLOSUM62='matrices/BLOSUM62.txt', BLOSUM80='matrices/BLOSUM80.txt',
                      PAM30='matrices/PAM30.txt', PAM70='matrices/PAM70.txt' )
 
-            

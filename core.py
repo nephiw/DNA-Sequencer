@@ -37,14 +37,14 @@ class Controller( ) :
 
     def executeCommand( self, note ) :
         commandClassRef = self.commandMap.get( note.getName( ), None )
-        if commandClassRef == None :
+        if commandClassRef is None :
             return
 
         commandInstance = commandClassRef( )
         commandInstance.execute( note )
 
     def registerCommand( self, notificationName, commandClassRef ) :
-        if self.commandMap.get( notificationName, None ) == None :
+        if self.commandMap.get( notificationName, None ) is None :
             self.view.registerObserver( notificationName, comm.observer.Observer( self.executeCommand, self ) )
 
         self.commandMap[ notificationName ] = commandClassRef
