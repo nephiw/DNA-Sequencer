@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="search.css"/>
+<script type="text/javascript" src="search.js"></script>
+</head>
+<body class="SRPage">
+<div id="SRIndex">
+<div class="SRStatus" id="Loading">Loading...</div>
+<div class="SRResult" id="SR_facade">
+ <div class="SREntry">
+  <a id="Item0" onkeydown="return searchResults.Nav(event,0)" onkeypress="return searchResults.Nav(event,0)" onkeyup="return searchResults.Nav(event,0)" class="SRSymbol" href="javascript:searchResults.Toggle('SR_facade')">facade</a>
+  <div class="SRChildren">
+    <a id="Item0_c0" onkeydown="return searchResults.NavChild(event,0,0)" onkeypress="return searchResults.NavChild(event,0,0)" onkeyup="return searchResults.NavChild(event,0,0)" class="SRScope" href="../class_py_source_1_1comm_1_1observer_1_1_notifier.html#a40507c52f4a9243fdb7c1cf06b7807fa" target="_parent">PySource::comm::observer::Notifier::facade()</a>
+    <a id="Item0_c1" onkeydown="return searchResults.NavChild(event,0,1)" onkeypress="return searchResults.NavChild(event,0,1)" onkeyup="return searchResults.NavChild(event,0,1)" class="SRScope" href="../class_py_source_1_1patterns_1_1mediator_1_1_mediator.html#a4059ff572e0488319cdb933083867878" target="_parent">PySource::patterns::mediator::Mediator::facade()</a>
+    <a id="Item0_c2" onkeydown="return searchResults.NavChild(event,0,2)" onkeypress="return searchResults.NavChild(event,0,2)" onkeyup="return searchResults.NavChild(event,0,2)" class="SRScope" href="../class_py_source_1_1patterns_1_1proxy_1_1_proxy.html#a1a07af4272544d8940a3b738f954ee89" target="_parent">PySource::patterns::proxy::Proxy::facade()</a>
+  </div>
+ </div>
+</div>
+<div class="SRStatus" id="Searching">Searching...</div>
+<div class="SRStatus" id="NoMatches">No Matches</div>
+<script type="text/javascript"><!--
+document.getElementById("Loading").style.display="none";
+document.getElementById("NoMatches").style.display="none";
+var searchResults = new SearchResults("searchResults");
+searchResults.Search();
+--></script>
+</div>
+</body>
+</html>

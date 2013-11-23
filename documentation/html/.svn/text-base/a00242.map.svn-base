@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$a00043.html" title="{Utilities::Scanner\n|# undo_buffer\l# delimiter\l# end_of_file\l# WHITE_SPACE\l# NEW_LINE\l# RETURN\l# BACK\l# TAB\l# DEFAULT_DELIMITER\l|+ setDelimiter()\l+ getDelimiter()\l+ open()\l+ close()\l+ undoScan()\l+ eof()\l+ getNextToken()\l+ getNextLine()\l+ getNextInt()\l+ getNextLong()\l+ getNextDouble()\l+ peek()\l+ getNextChar()\l# Scanner()\l# ~Scanner()\l# getNextToken()\l# getNextLine()\l# getNextInt()\l# getNextLong()\l# getNextDouble()\l# peek()\l# getNextChar()\l# undoScan()\l# eof()\l# getSingleCharacterCode()\l}" alt="" coords="5,5,187,645"/>
+</map>

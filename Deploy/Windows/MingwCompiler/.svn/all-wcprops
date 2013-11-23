@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/138/trunk/Deploy/Windows/MingwCompiler
+END
+libstdc++-6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/Deploy/Windows/MingwCompiler/libstdc++-6.dll
+END
+libgcc_s_dw2-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/138/trunk/Deploy/Windows/MingwCompiler/libgcc_s_dw2-1.dll
+END

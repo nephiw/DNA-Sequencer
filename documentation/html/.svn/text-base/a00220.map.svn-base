@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$a00007.html" title="Mediates DataSelectorInterface." alt="" coords="5,473,339,645"/>
+<area shape="rect" id="node7" href="$a00017.html" title="Mediates GraphicalUserInterface and MainTabInterface." alt="" coords="363,481,696,636"/>
+<area shape="rect" id="node9" href="$a00031.html" title="PairwiseInterface." alt="" coords="720,464,1085,653"/>
+<area shape="rect" id="node11" href="$a00036.html" title="Mediates ResultsInterface." alt="" coords="1109,481,1405,636"/>
+<area shape="rect" id="node2" href="$a00024.html" title="The super class for objects that need to broadcast Notifications for the application." alt="" coords="603,6,829,109"/>
+</map>

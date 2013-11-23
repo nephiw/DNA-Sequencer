@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="search.css"/>
+<script type="text/javascript" src="search.js"></script>
+</head>
+<body class="SRPage">
+<div id="SRIndex">
+<div class="SRStatus" id="Loading">Loading...</div>
+<div class="SRResult" id="SR_comm">
+ <div class="SREntry">
+  <a id="Item0" onkeydown="return searchResults.Nav(event,0)" onkeypress="return searchResults.Nav(event,0)" onkeyup="return searchResults.Nav(event,0)" class="SRSymbol" href="../a00107.html" target="_parent">comm</a>
+  <span class="SRScope">PySource</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_concrete">
+ <div class="SREntry">
+  <a id="Item1" onkeydown="return searchResults.Nav(event,1)" onkeypress="return searchResults.Nav(event,1)" onkeyup="return searchResults.Nav(event,1)" class="SRSymbol" href="../a00111.html" target="_parent">concrete</a>
+  <span class="SRScope">PySource</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_libs">
+ <div class="SREntry">
+  <a id="Item2" onkeydown="return searchResults.Nav(event,2)" onkeypress="return searchResults.Nav(event,2)" onkeyup="return searchResults.Nav(event,2)" class="SRSymbol" href="../a00118.html" target="_parent">libs</a>
+  <span class="SRScope">PySource</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwise">
+ <div class="SREntry">
+  <a id="Item3" onkeydown="return searchResults.Nav(event,3)" onkeypress="return searchResults.Nav(event,3)" onkeyup="return searchResults.Nav(event,3)" class="SRSymbol" href="../a00105.html" target="_parent">Pairwise</a>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwisealignment">
+ <div class="SREntry">
+  <a id="Item4" onkeydown="return searchResults.Nav(event,4)" onkeypress="return searchResults.Nav(event,4)" onkeyup="return searchResults.Nav(event,4)" class="SRSymbol" href="../a00029.html" target="_parent">PairwiseAlignment</a>
+  <span class="SRScope">Pairwise</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwisecomparecommand">
+ <div class="SREntry">
+  <a id="Item5" onkeydown="return searchResults.Nav(event,5)" onkeypress="return searchResults.Nav(event,5)" onkeyup="return searchResults.Nav(event,5)" class="SRSymbol" href="../a00030.html" target="_parent">PairwiseCompareCommand</a>
+  <span class="SRScope">PySource::concrete::controller</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwiseinterface">
+ <div class="SREntry">
+  <a id="Item6" onkeydown="return searchResults.Nav(event,6)" onkeypress="return searchResults.Nav(event,6)" onkeyup="return searchResults.Nav(event,6)" class="SRSymbol" href="../a00031.html" target="_parent">PairwiseInterface</a>
+  <span class="SRScope">PySource::concrete::views</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwiseselectorvo">
+ <div class="SREntry">
+  <a id="Item7" onkeydown="return searchResults.Nav(event,7)" onkeypress="return searchResults.Nav(event,7)" onkeyup="return searchResults.Nav(event,7)" class="SRSymbol" href="../a00032.html" target="_parent">PairwiseSelectorVO</a>
+  <span class="SRScope">PySource::comm::valueObjects</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwisesequencemediator">
+ <div class="SREntry">
+  <a id="Item8" onkeydown="return searchResults.Nav(event,8)" onkeypress="return searchResults.Nav(event,8)" onkeyup="return searchResults.Nav(event,8)" class="SRSymbol" href="../a00033.html" target="_parent">PairwiseSequenceMediator</a>
+  <span class="SRScope">PySource::concrete::mediators</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pairwisesequencer">
+ <div class="SREntry">
+  <a id="Item9" onkeydown="return searchResults.Nav(event,9)" onkeypress="return searchResults.Nav(event,9)" onkeyup="return searchResults.Nav(event,9)" class="SRSymbol" href="../a00034.html" target="_parent">PairwiseSequencer</a>
+  <span class="SRScope">Pairwise</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsefastacommand">
+ <div class="SREntry">
+  <a id="Item10" onkeydown="return searchResults.Nav(event,10)" onkeypress="return searchResults.Nav(event,10)" onkeyup="return searchResults.Nav(event,10)" class="SRSymbol" href="../a00035.html" target="_parent">ParseFastaCommand</a>
+  <span class="SRScope">PySource::concrete::controller</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsematrixcommand">
+ <div class="SREntry">
+  <a id="Item11" onkeydown="return searchResults.Nav(event,11)" onkeypress="return searchResults.Nav(event,11)" onkeyup="return searchResults.Nav(event,11)" class="SRSymbol" href="../a00036.html" target="_parent">ParseMatrixCommand</a>
+  <span class="SRScope">PySource::concrete::controller</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_patterns">
+ <div class="SREntry">
+  <a id="Item12" onkeydown="return searchResults.Nav(event,12)" onkeypress="return searchResults.Nav(event,12)" onkeyup="return searchResults.Nav(event,12)" class="SRSymbol" href="../a00120.html" target="_parent">patterns</a>
+  <span class="SRScope">PySource</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_peek">
+ <div class="SREntry">
+  <a id="Item13" onkeydown="return searchResults.Nav(event,13)" onkeypress="return searchResults.Nav(event,13)" onkeyup="return searchResults.Nav(event,13)" class="SRSymbol" href="javascript:searchResults.Toggle('SR_peek')">peek</a>
+  <div class="SRChildren">
+    <a id="Item13_c0" onkeydown="return searchResults.NavChild(event,13,0)" onkeypress="return searchResults.NavChild(event,13,0)" onkeyup="return searchResults.NavChild(event,13,0)" class="SRScope" href="../a00013.html#ac82813a1b1c795e330684350d2799c20" target="_parent">Utilities::FileScanner::peek()</a>
+    <a id="Item13_c1" onkeydown="return searchResults.NavChild(event,13,1)" onkeypress="return searchResults.NavChild(event,13,1)" onkeyup="return searchResults.NavChild(event,13,1)" class="SRScope" href="../a00053.html#af0b156cbfca2998d1663c4ddd393d5e8" target="_parent">Utilities::StringScanner::peek()</a>
+  </div>
+ </div>
+</div>
+<div class="SRResult" id="SR_prepend">
+ <div class="SREntry">
+  <a id="Item14" onkeydown="return searchResults.Nav(event,14)" onkeypress="return searchResults.Nav(event,14)" onkeyup="return searchResults.Nav(event,14)" class="SRSymbol" href="../a00045.html#ae5d8757fcd5967987b5fd21e18c94771" target="_parent">prepend</a>
+  <span class="SRScope">Sequencing::Sequence</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_print">
+ <div class="SREntry">
+  <a id="Item15" onkeydown="return searchResults.Nav(event,15)" onkeypress="return searchResults.Nav(event,15)" onkeyup="return searchResults.Nav(event,15)" class="SRSymbol" href="../a00054.html#a38050e9cbe817912f3534f48e23a7b61" target="_parent">print</a>
+  <span class="SRScope">Pairwise::SubstitutionMatrix</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_proxy">
+ <div class="SREntry">
+  <a id="Item16" onkeydown="return searchResults.Nav(event,16)" onkeypress="return searchResults.Nav(event,16)" onkeyup="return searchResults.Nav(event,16)" class="SRSymbol" href="../a00037.html" target="_parent">Proxy</a>
+  <span class="SRScope">PySource::patterns::proxy</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pysource">
+ <div class="SREntry">
+  <a id="Item17" onkeydown="return searchResults.Nav(event,17)" onkeypress="return searchResults.Nav(event,17)" onkeyup="return searchResults.Nav(event,17)" class="SRSymbol" href="../a00106.html" target="_parent">PySource</a>
+ </div>
+</div>
+<div class="SRStatus" id="Searching">Searching...</div>
+<div class="SRStatus" id="NoMatches">No Matches</div>
+<script type="text/javascript"><!--
+document.getElementById("Loading").style.display="none";
+document.getElementById("NoMatches").style.display="none";
+var searchResults = new SearchResults("searchResults");
+searchResults.Search();
+--></script>
+</div>
+</body>
+</html>

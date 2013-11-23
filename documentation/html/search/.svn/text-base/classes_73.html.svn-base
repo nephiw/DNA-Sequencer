@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="search.css"/>
+<script type="text/javascript" src="search.js"></script>
+</head>
+<body class="SRPage">
+<div id="SRIndex">
+<div class="SRStatus" id="Loading">Loading...</div>
+<div class="SRResult" id="SR_savestateproxy">
+ <div class="SREntry">
+  <a id="Item0" onkeydown="return searchResults.Nav(event,0)" onkeypress="return searchResults.Nav(event,0)" onkeyup="return searchResults.Nav(event,0)" class="SRSymbol" href="../a00041.html" target="_parent">SaveStateProxy</a>
+  <span class="SRScope">PySource::concrete::model</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_saveviewstatecommand">
+ <div class="SREntry">
+  <a id="Item1" onkeydown="return searchResults.Nav(event,1)" onkeypress="return searchResults.Nav(event,1)" onkeyup="return searchResults.Nav(event,1)" class="SRSymbol" href="../a00042.html" target="_parent">SaveViewStateCommand</a>
+  <span class="SRScope">PySource::concrete::controller</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_scanner">
+ <div class="SREntry">
+  <a id="Item2" onkeydown="return searchResults.Nav(event,2)" onkeypress="return searchResults.Nav(event,2)" onkeyup="return searchResults.Nav(event,2)" class="SRSymbol" href="../a00043.html" target="_parent">Scanner</a>
+  <span class="SRScope">Utilities</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_scorematrixresultvo">
+ <div class="SREntry">
+  <a id="Item3" onkeydown="return searchResults.Nav(event,3)" onkeypress="return searchResults.Nav(event,3)" onkeyup="return searchResults.Nav(event,3)" class="SRSymbol" href="../a00044.html" target="_parent">ScoreMatrixResultVO</a>
+  <span class="SRScope">PySource::comm::valueObjects</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_sequence">
+ <div class="SREntry">
+  <a id="Item4" onkeydown="return searchResults.Nav(event,4)" onkeypress="return searchResults.Nav(event,4)" onkeyup="return searchResults.Nav(event,4)" class="SRSymbol" href="../a00045.html" target="_parent">Sequence</a>
+  <span class="SRScope">Sequencing</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_sequencelistvo">
+ <div class="SREntry">
+  <a id="Item5" onkeydown="return searchResults.Nav(event,5)" onkeypress="return searchResults.Nav(event,5)" onkeyup="return searchResults.Nav(event,5)" class="SRSymbol" href="../a00046.html" target="_parent">SequenceListVO</a>
+  <span class="SRScope">PySource::comm::valueObjects</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_sequencevo">
+ <div class="SREntry">
+  <a id="Item6" onkeydown="return searchResults.Nav(event,6)" onkeypress="return searchResults.Nav(event,6)" onkeyup="return searchResults.Nav(event,6)" class="SRSymbol" href="../a00047.html" target="_parent">SequenceVO</a>
+  <span class="SRScope">PySource::comm::valueObjects</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_showinfomediator">
+ <div class="SREntry">
+  <a id="Item7" onkeydown="return searchResults.Nav(event,7)" onkeypress="return searchResults.Nav(event,7)" onkeyup="return searchResults.Nav(event,7)" class="SRSymbol" href="../a00048.html" target="_parent">ShowInfoMediator</a>
+  <span class="SRScope">PySource::concrete::mediators</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_simplecommand">
+ <div class="SREntry">
+  <a id="Item8" onkeydown="return searchResults.Nav(event,8)" onkeypress="return searchResults.Nav(event,8)" onkeyup="return searchResults.Nav(event,8)" class="SRSymbol" href="../a00049.html" target="_parent">SimpleCommand</a>
+  <span class="SRScope">PySource::patterns::command</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_startalignmentcommand">
+ <div class="SREntry">
+  <a id="Item9" onkeydown="return searchResults.Nav(event,9)" onkeypress="return searchResults.Nav(event,9)" onkeyup="return searchResults.Nav(event,9)" class="SRSymbol" href="../a00050.html" target="_parent">StartAlignmentCommand</a>
+  <span class="SRScope">PySource::concrete::controller</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_startupcommand">
+ <div class="SREntry">
+  <a id="Item10" onkeydown="return searchResults.Nav(event,10)" onkeypress="return searchResults.Nav(event,10)" onkeyup="return searchResults.Nav(event,10)" class="SRSymbol" href="../a00051.html" target="_parent">StartupCommand</a>
+  <span class="SRScope">PySource::concrete::controller</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_staticstateproxy">
+ <div class="SREntry">
+  <a id="Item11" onkeydown="return searchResults.Nav(event,11)" onkeypress="return searchResults.Nav(event,11)" onkeyup="return searchResults.Nav(event,11)" class="SRSymbol" href="../a00052.html" target="_parent">StaticStateProxy</a>
+  <span class="SRScope">PySource::concrete::model</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_stringscanner">
+ <div class="SREntry">
+  <a id="Item12" onkeydown="return searchResults.Nav(event,12)" onkeypress="return searchResults.Nav(event,12)" onkeyup="return searchResults.Nav(event,12)" class="SRSymbol" href="../a00053.html" target="_parent">StringScanner</a>
+  <span class="SRScope">Utilities</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_substitutionmatrix">
+ <div class="SREntry">
+  <a id="Item13" onkeydown="return searchResults.Nav(event,13)" onkeypress="return searchResults.Nav(event,13)" onkeyup="return searchResults.Nav(event,13)" class="SRSymbol" href="../a00054.html" target="_parent">SubstitutionMatrix</a>
+  <span class="SRScope">Pairwise</span>
+ </div>
+</div>
+<div class="SRStatus" id="Searching">Searching...</div>
+<div class="SRStatus" id="NoMatches">No Matches</div>
+<script type="text/javascript"><!--
+document.getElementById("Loading").style.display="none";
+document.getElementById("NoMatches").style.display="none";
+var searchResults = new SearchResults("searchResults");
+searchResults.Search();
+--></script>
+</div>
+</body>
+</html>

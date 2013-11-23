@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$a00039.html" title="Stores the values provided by the user during the opperation of the application." alt="" coords="5,447,304,567"/>
+<area shape="rect" id="node7" href="$a00040.html" title="TODO: Implement state saving." alt="" coords="328,464,608,549"/>
+<area shape="rect" id="node9" href="$a00050.html" title="Provides access for default values within the application." alt="" coords="632,429,917,584"/>
+<area shape="rect" id="node2" href="$a00024.html" title="The super class for objects that need to broadcast Notifications for the application." alt="" coords="355,6,581,109"/>
+</map>

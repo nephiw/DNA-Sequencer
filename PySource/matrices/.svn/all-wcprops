@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/90/trunk/PySource/matrices
+END
+PAM70.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/90/trunk/PySource/matrices/PAM70.txt
+END
+BLOSUM50.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/90/trunk/PySource/matrices/BLOSUM50.txt
+END
+BLOSUM62.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/90/trunk/PySource/matrices/BLOSUM62.txt
+END
+BLOSUM80.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/90/trunk/PySource/matrices/BLOSUM80.txt
+END
+BLOSUM45.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/90/trunk/PySource/matrices/BLOSUM45.txt
+END
+PAM30.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/90/trunk/PySource/matrices/PAM30.txt
+END
