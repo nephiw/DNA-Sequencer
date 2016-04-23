@@ -1,3 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$a00010.html" title="{PySource::patterns::facade::Facade\n|+ instance\l+ controller\l+ model\l+ view\l|+ getInstance()\l+ __new__()\l+ initializeFacade()\l+ initializeController()\l+ initializeModel()\l+ initializeView()\l+ registerCommand()\l+ removeCommand()\l+ hasCommand()\l+ registerProxy()\l+ retrieveProxy()\l+ removeProxy()\l+ hasProxy()\l+ registerMediator()\l+ retrieveMediator()\l+ removeMediator()\l+ hasMediator()\l+ sendNotification()\l+ notifyObservers()\l}" alt="" coords="5,6,235,455"/>
-</map>

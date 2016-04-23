@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$a00013.html" title="{Utilities::FileScanner\n|&#45; file\l|+ FileScanner()\l+ FileScanner()\l+ ~FileScanner()\l+ open()\l+ close()\l+ undoScan()\l+ eof()\l+ getNextToken()\l+ getNextLine()\l+ getNextInt()\l+ getNextLong()\l+ getNextDouble()\l+ peek()\l+ getNextChar()\l}" alt="" coords="5,694,147,1005"/>
-<area shape="rect" id="node5" href="$a00053.html" title="{Utilities::StringScanner\n|&#45; stream\l|+ StringScanner()\l+ StringScanner()\l+ ~StringScanner()\l+ open()\l+ close()\l+ undoScan()\l+ eof()\l+ getNextToken()\l+ getNextLine()\l+ getNextInt()\l+ getNextLong()\l+ getNextDouble()\l+ peek()\l+ getNextChar()\l}" alt="" coords="171,694,325,1005"/>
-</map>

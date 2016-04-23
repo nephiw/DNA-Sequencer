@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node5" href="$a00007.html" title="Mediates DataSelectorInterface." alt="" coords="5,473,339,645"/>
-<area shape="rect" id="node7" href="$a00011.html" title="Mediates an instance of tkinter&#39;s file dialog interface." alt="" coords="363,490,680,627"/>
-<area shape="rect" id="node9" href="$a00018.html" title="Mediates GraphicalUserInterface and MainTabInterface." alt="" coords="704,481,1037,636"/>
-<area shape="rect" id="node11" href="$a00033.html" title="PairwiseInterface." alt="" coords="1061,464,1427,653"/>
-<area shape="rect" id="node13" href="$a00038.html" title="Mediates ResultsInterface." alt="" coords="1451,481,1747,636"/>
-<area shape="rect" id="node15" href="$a00048.html" title="Mediates an instance of tkinter&#39;s show info box." alt="" coords="1771,490,2083,627"/>
-<area shape="rect" id="node2" href="$a00026.html" title="The super class for objects that need to broadcast Notifications for the application." alt="" coords="944,6,1171,109"/>
-</map>

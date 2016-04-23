@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$a00001.html" title="{Pairwise::AffineSequencer\n|&#45; open_gap_penalty\l&#45; extend_gap_penalty\l&#45; global\l&#45; MATRIX_COUNT\l&#45; MATRIX_A\l&#45; MATRIX_B\l&#45; MATRIX_C\l|+ AffineSequencer()\l+ ~AffineSequencer()\l+ sequence()\l&#45; max()\l&#45; max()\l&#45; sequence_matrix_create()\l&#45; sequence_matrix_traceback()\l}" alt="" coords="5,139,205,432"/>
-<area shape="rect" id="node5" href="$a00016.html" title="{Pairwise::LinearSequencer\n|&#45; gap_penalty\l&#45; global\l|+ LinearSequencer()\l+ ~LinearSequencer()\l+ sequence()\l&#45; max()\l&#45; max()\l&#45; sequence_matrix_create()\l&#45; getHighestScore()\l&#45; sequence_matrix_traceback()\l}" alt="" coords="229,173,429,397"/>
-</map>
