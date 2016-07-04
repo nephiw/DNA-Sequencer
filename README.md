@@ -18,7 +18,7 @@ When the program is running, the first thing you will see are three text entry b
 There are several different ways to configure the comparison of strings. These settings will be applied to either the pairwise or the multiple sequence alignments.
 
 ## Open Archaeopteryx
-At the very top is a check box to "Open Archaeopteryx when complete." Archaeopteryx is a program for graph visualization, and we can automatically open a specific version of it called forester once the MSA tree has been constructed. This setting does not have any impact on pairwise comparisons. To find out more information on forester, check out the [google code page](http://code.google.com/p/forester/ "Forester Google Code Page").
+At the very top is a check box to "Open Archaeopteryx when complete." Archaeopteryx is a program for graph visualization, and we can automatically open a specific version of it called forester once the MSA tree has been constructed. This setting does not have any impact on pairwise comparisons. To find out more information on forester, check out the [github page](https://github.com/cmzmasek/forester "Forester GitHub Page").
 
 ## Substitution Matrix
 The next control is a drop down of substitution matrix files. There are some standard ones, and the default is "BLOSUM62." These files determine how the comparison between characters is scored. The kinds of data that can be compared is only limited by this file. Also, this application can not compare multiple character units. In other words "G", "C", "A", "T" and "U" are fine, but "P1", "P2", etc... would not be understood.
