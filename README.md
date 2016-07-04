@@ -2,9 +2,9 @@ DNA-Sequencer
 =============
 # Introduction
 
-This is a relatively small python 3.2 and pyd program for the parsing of small DNA sequence segments. The program accepts sequences from fasta files, and outputs a tree in newick format. This can be launched with forester in order to better visualize the tree.
+This is a relatively small python 3.2 and pyd program for the parsing of small DNA sequence segments. The program accepts sequences from [fasta files](http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml), and outputs a tree in newick format. This can be launched with forester in order to better visualize the tree.
 
-The algorithms used for the pairwise sequence analysis can be chosen at run time and the options are the Needleman-Wunsch algorithm (global), the Smith-Waterman algorithm (local) or an algorithm that uses affine scoring (affine). Neighbor Joining is the multiple sequence alignment algorithm that we chose.
+The algorithms used for the pairwise sequence analysis can be chosen at run time and the options are the [Needleman-Wunsch algorithm (global)](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm), the [Smith-Waterman algorithm (local)](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm) or an algorithm that uses affine scoring (affine). Neighbor Joining is the multiple sequence alignment algorithm that we chose.
 
 This code was written by students of the Metropolitan State University of Denver, and we welcome anyone to download and experiment with our code. With that said, we don't guarantee that it works on all operating systems.
 
